@@ -1,1 +1,1 @@
-# Instagram Spam Detector
+# SMS Spam Detector
